@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/achow101
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://achow101.com
+  * I am achow101 (https://keybase.io/achow101) on keybase.
+  * I have a public key with fingerprint 1528 1230 0785 C964 44D3  334D 1756 5732 E08E 5E41
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010136e3a31fd9926767e3c889d55fc6b6a89a6dd45dfdfb0f5748622e8c1f5754960a",
+            "fingerprint": "152812300785c96444d3334d17565732e08e5e41",
+            "host": "keybase.io",
+            "key_id": "17565732e08e5e41",
+            "kid": "010136e3a31fd9926767e3c889d55fc6b6a89a6dd45dfdfb0f5748622e8c1f5754960a",
+            "uid": "cb47e3e5dff13ac986f645a5b3880d19",
+            "username": "achow101"
+        },
+        "service": {
+            "hostname": "achow101.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1456593144,
+    "expire_in": 157680000,
+    "prev": "1e0bd237d20593a2edb7e11ab64e0cafa3d100720b55285706efe7c14f087c05",
+    "seqno": 16,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUltMFFcYXlhRoIJsS4JQSsiIlJZL5z6z60ODVBK2ICYaMG0izOUMOwI76+5w
+v2UNCNQWiDGxLhQtBNEKcm0hGHwAhVKwkdogeGndljRSaKUhWJAQeoa0L00fe17O
+Of/5vu98/6XBT6/z9AhKS8ef1p2I95hc4HVp07OrJQiviEWIqQTJBtsbyBGBQ83I
+lkXEhKAYihE0IDgCk0SjEacZmgGEwLJGkaIkgeZpjjVytCiSlCiJEo9KFEOyNI4D
+VsDgmSKNNMohMYgkW7OA3WaXrSqUxSicxXACRRmWEow0SZIiQRCkiDEUTTEEDlAW
+UIDEINGiODQGNMdzDhAnKzAGLxnb9v4D/z/7ztuWE3gS0gHEShjBCUaWlmiS4iie
+YFlUxIwa0AHsVi4XQDQnWJQCaAApi0FgNF8WgFZYLZN/IeIEJRdybXZFVQQlB75Y
+VNVm0ohqkU1DFgA+42+NDF62irCMkJAP7A5ZsSImDCIFVdZEMRLWwkhgJBmDgEKb
+bAcZsoagGJpF4dK+Afla0QDKizjBHBdxFBI4HIg8AzCM42kSoAIncYSIwdbgKE/B
+PlEMSgMJMAJGSijLCCiFaGmdsipQnIZGuSwo6pCzrJyaZwdImW+tZ+gOnYenbqeX
+pzZhOl+fgH/GLm9gz+beyWB8Lniu6uJ1YUdl1HC3X4lrgDnbciOdU53f9fVainU1
++1Y2kqOY917xbj1iHKx83PHgXuTuLtNnhirljfmTroqix93JC86u/Zfnlupld7mr
+7k5gdJglYKH9oS6i5+MPVssDbyd4dRYz4R8OfRN9pfMUNXOQWG2OTnjQXZp5JtX8
+bApDIoIWBg9f1Afmnbi0Gf0yabG6MTXzwP7JV++HkFVfJXn9FLv+6HbRyF1Df59D
+TSa2xpovlHavJP6QP1+h70iKOOwazvmid/D4+tJ66DG8xDV2q0V/s/l5YeXu8qs7
+32mzrHvI2U0/RuG+pe5Bc6ql+HSQ+yPQcMT9W8eX52tr0yKdV/KeH8o9GX8oLr7l
+109TRp6M6+VVnXd1yv3Z0KGe901hrkik4y2bX0C/z/LRiTtD9j8r6iq/bjNk+fws
+T+G2Tn3IwtSIw7m+svyyvl/h49baz2250d8P2LzYuJDYfcNRE709DfoXZsOz11PC
+rhWGbwVPvth492aDQe9flj7cl4Lxx75v9U15qvjPfru3dfRRwsqu+rTVsavkH3dj
+15qmQ0eX76VSSq8z/qAlceBc4+cF+On68fInTQ83F30XN6LUtk92tZw/kzgR7uU0
+zcyXtWeP3lo6an5zT1rmDfvSeG7qWrnZ0FX/9vXpS9e89ZdrZqpfm6jhms7m+P3i
+7278Cw==
+=Augc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/achow101
+
+==================================================================
+
