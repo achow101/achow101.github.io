@@ -2,15 +2,12 @@
 title: Alex Carpenter
 email: your-email@domain.com
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/material-jekyll-theme"
-url: "http://alexcarpenter.me"
+  The website of Andrew Chow, a young programmer, Bitcoiner, and technology enthusiast.
+baseurl: ""
+url: "http://achow101.com"
 fixedNav: 'true' # true or false
-theme: purple # green, blue, orange, purple, grey
-twitterUsername: hybrid_alex
-githubUsername: alexcarpenter
+theme: blue # green, blue, orange, purple, grey
+githubUsername: achow101
 dribbbleUsername:
 codepenUsername:
 

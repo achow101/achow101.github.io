@@ -1,21 +1,27 @@
 ---
 layout: page
-title: Material Jekyll Theme
+title: Andrew Chow
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis [nostrud exercitation](http://alexcarpenter.me) ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Welcome to the website of Andrew Chow
 
-## Heading Level 2
+I am a developer, specializing in Java and Android although I can do other stuff with programming and server maintainence and management. I am actively learning other programming languages such as C++ and python.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am also an Bitcoiner. I have experience with Bitcoin and I will work for Bitcoin.
 
-{% highlight scss %}
-  .header {
-    font-size: 100px;
-  }
-{% endhighlight %}
+I like donations, and if you want to tip me, please tip me some Bitcoin to [15zMaUYjxyRv9yUuGRuTbk7DZYYG8NSKnJ](bitcoin:15zMaUYjxyRv9yUuGRuTbk7DZYYG8NSKnJ)
 
-### Heading Level 3
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+### My Work
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I have worked on many projects, all of which are open source and can be viewed in my Github account. Some of these projects are for myself and others projects commissioned by others. Some of my projects involve modifying existing open source projects
+
+ - [Bitcointalk Forum Account Price Estimator](http://www.bctalkaccountpricer.info/)
+ - BubbleCoin and BubbleCoin trsst social network (Commissioned and modified existing works)
+
+I am also contributing to some Bitcoin related open source projects
+
+ - [Bitcoin Core (Gitian builder)](https://bitcoincore.org/)
+ - [Bitcoin Armory](https://github.com/goatpig/BitcoinArmory)
+
+
+
