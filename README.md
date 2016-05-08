@@ -1,23 +1,7 @@
-# material-jekyll-theme
-[Demo](http://alexcarpenter.me/material-jekyll-theme)
+# My Website
 
-![Material Jekyll Theme](https://d13yacurqjgara.cloudfront.net/users/37718/screenshots/2430279/slice_1.jpg)
+This is the github repo for my website. The site uses Jekyll and is hosted using [Github Pages](https://pages.github.com/) This site also makes use of the [Material Jekyll Theme](https://github.com/alexcarpenter/material-jekyll-theme) by [Alex Carpenter](https://github.com/alexcarpenter).
 
-## Getting started
-1. `git clone https://github.com/alexcarpenter/material-jekyll-theme.git`
-2. `cd material-jekyll-theme`
-3. Configure the `_config.yml` file as needed
-4. `jekyll serve`
+## License
 
-## Options
-Customize your options within the `_config.yml` file.
-
-+ Theme
-  - Green
-  - Blue
-  - Orange
-  - Purple
-  - Grey
-+ Fixed Navigation
-  - True
-  - False
+This site is licensed under the MIT License
