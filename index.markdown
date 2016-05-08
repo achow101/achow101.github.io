@@ -15,6 +15,7 @@ I like donations, and if you want to tip me, please tip me some Bitcoin to [15zM
 
 I have worked on many projects, all of which are open source and can be viewed in my Github account. Some of these projects are for myself and others projects commissioned by others. Some of my projects involve modifying existing open source projects
 
+ - [Bitcoin Fork Monitor](http://btcforkmonitor.info) ([Announcement]({% post_url 2016-05-08-Fork-Monitor %}))
  - [Bitcointalk Forum Account Price Estimator](http://www.bctalkaccountpricer.info/)
  - BubbleCoin and BubbleCoin trsst social network (Commissioned and modified existing works)
 
