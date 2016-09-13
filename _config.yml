@@ -6,7 +6,7 @@ description: >
 baseurl: ""
 url: "http://achow101.com"
 fixedNav: 'true' # true or false
-theme: green # green, blue, orange, purple, grey
+theme: minima # green, blue, orange, purple, grey
 githubUsername: achow101
 dribbbleUsername:
 codepenUsername:
