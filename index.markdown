@@ -4,25 +4,18 @@ title: Andrew Chow
 ---
 ## Welcome to the website of Andrew Chow
 
-I am a developer, specializing in Java and Android although I can do other stuff with programming and server maintainence and management. I am actively learning other programming languages such as C++ and python.
+I am a developer, specializing in C++, Python, and Java although I can do other stuff with programming and server maintainence and management. I am a [Bitcoin Core](https://bitcoincore.org) and [Bitcoin Armory](https://btcarmory.com) developer.
 
-I am also an Bitcoiner. I have experience with Bitcoin and I will work for Bitcoin.
+I am available for hire to do a variety of programing jobs and Bitcoin related work.
 
-I like donations, and if you want to tip me, please tip me some Bitcoin to [15zMaUYjxyRv9yUuGRuTbk7DZYYG8NSKnJ](bitcoin:15zMaUYjxyRv9yUuGRuTbk7DZYYG8NSKnJ)
+I am also the moderator of the [Technical Support](https://bitcointalk.org/index.php?board=4.0) and [Development and Technical Discussion](https://bitcointalk.org/index.php?board=6.0) sections of [Bitcointalk](https://bitcointalk.org)
+
+I like donations, and if you want to tip me, please tip me some Bitcoin to [1Doqm1wHhJ6YzyfrKjNvBDuhLkazifBRFU](bitcoin:1Doqm1wHhJ6YzyfrKjNvBDuhLkazifBRFU)
 
 
 ### My Work
 
-I have worked on many projects, all of which are open source and can be viewed in my Github account. Some of these projects are for myself and others projects commissioned by others. Some of my projects involve modifying existing open source projects
+I have worked on many projects, all of which are open source and can be viewed in my [Github account](https://github.com/achow101). Some of these projects are for myself and others projects commissioned by others. Some of my projects involve modifying existing open source projects
 
- - [Bitcoin Fork Monitor](http://btcforkmonitor.info) ([Announcement]({% post_url 2016-05-08-Fork-Monitor %}))
+ - [Bitcoin Fork Monitor](http://btcforkmonitor.info) 
  - [Bitcointalk Forum Account Price Estimator](http://www.bctalkaccountpricer.info/)
- - BubbleCoin and BubbleCoin trsst social network (Commissioned and modified existing works)
-
-I am also contributing to some Bitcoin related open source projects
-
- - [Bitcoin Core (Gitian builder)](https://bitcoincore.org/)
- - [Bitcoin Armory](https://github.com/goatpig/BitcoinArmory)
-
-
-
