@@ -93,10 +93,7 @@ And Bob generates a new address and retrieves its public key:
 Now they are going to create the multisig address:
 
     $ bitcoin-cli addmultisigaddress 2 '["02fd4dbc0f5076881586ce7ae84a3bd2854d2c2ca7782e7d3de9d4cfe64c20daa9","0208fe052d79b9feeb2d5b12ba72d5fab857a055275d1c550573c61c251751a643"]'
-    {
-      "address": "34sQK7HNe7eXwhduxcCNTxXaRJFyBWH6K4",
-      "redeemScript": "522102fd4dbc0f5076881586ce7ae84a3bd2854d2c2ca7782e7d3de9d4cfe64c20daa9210208fe052d79b9feeb2d5b12ba72d5fab857a055275d1c550573c61c251751a64352ae"
-    }
+    34sQK7HNe7eXwhduxcCNTxXaRJFyBWH6K4
 
 Now Alice and Bob are going to fund that address with transactions `$TX_A` and `$TX_B`. These have outputs `$VOUT_A` and `$VOUT_B` which fund the above address.
 
@@ -105,9 +102,9 @@ We now need to create our spending transactions. First we create Alice's spendin
     $ bitcoin-cli createrawtransaction '[{"txid":"$TX_A","vout":$VOUT_A},{"txid":"$TX_B","vout":$VOUT_B}]' '{"1Hs12LwwdXu2bhiuqyPfmWqUmTcZSBqEiS":19.999,"data":"52503d213e3178"}' 495072
     0200000002..e08d0700
 
-Next we create Bob's spending transaction. The replay protection that we employ here is that the transaction will be larger than 999920 bytes and less than 1000000 bytes so that it is too large to fit in a Bitcoin block but just small enough to fit in a Segwit2x block. To do so, we create 1886 outputs which have a maximum script size of 520 bytes and 1 output of 400 bytes. Note that we actually give it 516 bytes of data for the 1881 outputs and 394 bytes of data for the last output because three bytes are used to represent the size of the data and one byte for the OP_RETURN. Unfortunately this transaction is going to be nonstandard, but it is the only known way to make a transaction only valid on the Segwit2x chain without using UTXO tainting.
+Next we create Bob's spending transaction. The replay protection that we employ here is that the transaction will be larger than 999920 bytes and less than 1000000 bytes so that it is too large to fit in a Bitcoin block but just small enough to fit in a Segwit2x block. To do so, we create 1886 outputs which have a maximum script size of 520 bytes. Note that we actually give it 516 bytes of data for the 1882 outputs because three bytes are used to represent the size of the data and one byte for the OP_RETURN. Unfortunately this transaction is going to be nonstandard, but it is the only known way to make a transaction only valid on the Segwit2x chain without using UTXO tainting.
 
-    $ bitcoin-cli createrawtransaction '[{"txid":"$TX_A","vout":$VOUT_A},{"txid":"$TX_B","vout":$VOUT_B}]' '{"1JngAG1EfbjLqcfe3qcHNeV4Aeqc3NK4v3":19.999,"data":"<516 bytes of data>",<repeat 1886 times>,"data":"<396 bytes of data>"}' 495072
+    $ bitcoin-cli createrawtransaction '[{"txid":"$TX_A","vout":$VOUT_A},{"txid":"$TX_B","vout":$VOUT_B}]' '{"1JngAG1EfbjLqcfe3qcHNeV4Aeqc3NK4v3":19.999,"data":"<516 bytes of data>",<repeat 1882 times>}' 495072
     0200000002..e08d0700
 
 And then we create our back out transaction:
