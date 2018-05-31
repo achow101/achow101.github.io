@@ -1,0 +1,20 @@
+# Site settings
+title: Andrew Chow
+email: andrew@achow101.com
+description: >
+  The website of Andrew Chow, a young programmer, Bitcoiner, and technology enthusiast.
+baseurl: ""
+url: "http://achow101.com"
+fixedNav: 'true' # true or false
+theme: minima # green, blue, orange, purple, grey
+githubUsername: achow101
+dribbbleUsername:
+codepenUsername:
+
+# Build settings
+permalink: /:year/:month/:title
+markdown: kramdown
+include: [_pages]
+exclude: [_site, CHANGELOG.md, LICENSE, README.md]
+sass:
+  style: compressed

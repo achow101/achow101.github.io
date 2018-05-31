@@ -1,0 +1,8 @@
+<footer class="c-footer">
+  <div class="u-container c-footer__container">
+    <p>&copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
+    <p>
+      {% if site.githubUsername %}<a href="https://github.com/{{ site.githubUsername }}">Github</a>{% endif %}
+    </p>
+  </div>
+</footer>
