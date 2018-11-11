@@ -8,7 +8,7 @@ I am a developer, specializing in C++, Python, and Java although I can do other 
 
 I am also the moderator of the [Technical Support](https://bitcointalk.org/index.php?board=4.0) and [Development and Technical Discussion](https://bitcointalk.org/index.php?board=6.0) sections of [Bitcointalk](https://bitcointalk.org)
 
-If you would like to support my work, tip me some Bitcoin at [git@github.com:achow101/achow101.github.io.git](bitcoin:git@github.com:achow101/achow101.github.io.git)
+If you would like to support my work, tip me some Bitcoin at [bc1q5cyl64sdr3m965p8ayzvkr8ptmwstkhcgwsd53](bitcoin:bc1q5cyl64sdr3m965p8ayzvkr8ptmwstkhcgwsd53)
 
 
 ### My Work
