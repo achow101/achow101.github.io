@@ -10,7 +10,7 @@ I also perform [Gitian builds](_posts/2016-01-23-Gitian-builder.md) for Bitcoin 
 
 I am also the moderator of the [Technical Support](https://bitcointalk.org/index.php?board=4.0) and [Development and Technical Discussion](https://bitcointalk.org/index.php?board=6.0) sections of [Bitcointalk](https://bitcointalk.org)
 
-If you would like to support my work, tip me some Bitcoin at [bc1q5cyl64sdr3m965p8ayzvkr8ptmwstkhcgwsd53](bitcoin:bc1q5cyl64sdr3m965p8ayzvkr8ptmwstkhcgwsd53)
+If you would like to support my work, please visit my [donations page](https://tip.achow101.com/).
 
 ## Projects
 
