@@ -8,6 +8,8 @@ I primarily work on [Bitcoin Core](https://bitcoincore.org) and on the [Hardware
 My focus is on wallet functionality and interoperability between different wallet software.
 I also perform [Gitian builds](_posts/2016-01-23-Gitian-builder.md) for Bitcoin Core and all build results can be found on my [Github fork of Bitcoin](https://github.com/achow101/bitcoin/releases).
 
+Every Monday at 2 PM Eastern Time (America/New York Timezone), I livestream my work on Bitcoin Core and HWI on [Twitch](https://www.twitch.tv/achow101/).
+
 I am also the moderator of the [Technical Support](https://bitcointalk.org/index.php?board=4.0) and [Development and Technical Discussion](https://bitcointalk.org/index.php?board=6.0) sections of [Bitcointalk](https://bitcointalk.org)
 
 If you would like to support my work, please visit my [donations page](https://tip.achow101.com/).
