@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Announcing the Bitcoin Core Usage Survey"
-date: 2021-01-19 11:30:00 -0400
+date: 2021-01-19 15:30:00 -0400
 ---
 # Announcing the Bitcoin Core Usage Survey
 
@@ -68,9 +68,6 @@ This will help us change how the node behaves so that it can better fit with why
 
 These questions give us information about how frequently people actually update their node software as well as telling us what versions are actually in use.
 This will help us with deciding when and whether a new bug fix release should be made.
-
-NOTE: For the question "What version are you running?", there is no option for 0.21 as this survey was written prior to 0.21's release.
-If you are running 0.21, please choose the 0.20 option.
 
 * Select core features you've used on Bitcoin Core's node over the last six months
 * If applicable, select all of the settings for which you have changed the default value
