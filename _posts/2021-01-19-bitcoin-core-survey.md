@@ -11,6 +11,8 @@ Today I am launching a survey aimed at gathering information about how people us
 
 This survey is being done with the help and collaboration of the researchers at [Maiden](https://maiden.global/) and Square Crypto [grant recipient](https://twitter.com/sqcrypto/status/1338665428550365184) Jamaal Montasser.
 
+The survey will remain up for 6 weeks, until March 2nd, 2021.
+
 ## Goals
 
 The goal of this survey is to learn why people use Bitcoin Core, how they use it, and what features are used.
