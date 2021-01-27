@@ -9,7 +9,8 @@ Today I am launching a survey aimed at gathering information about how people us
 
 [Click here to take the survey](https://survey.alchemer.com/s3/6081474/8acd79087feb)
 
-This survey is being done with the help and collaboration of the researchers at [Maiden](https://maiden.global/) and Square Crypto [grant recipient](https://twitter.com/sqcrypto/status/1338665428550365184) Jamaal Montasser.
+This survey is generously made possible by a grant from MIT's Digital Currency Initiative and is being run with the help and collaboration of the researchers at [Maiden Laps](https://maiden.global/).
+A special thanks to Square Crypto [grant recipient](https://twitter.com/sqcrypto/status/1338665428550365184) Jamaal Montasser for his input throughout the design as well.
 
 The survey will remain up for 6 weeks, until March 2nd, 2021.
 
@@ -166,5 +167,5 @@ Although users who see these questions do not use Bitcoin Core, it is still usef
 
 ## Acknowledgements
 
-Special thanks to the researchers at [Maiden](https://maiden.global/), particularly Zach Herring and Shira Frank, who helped me put this survey together.
+Special thanks to MIT's DCI for generously sponsoring this survey, and for the researchers at [Maiden Labs](https://maiden.global/), particularly Zach Herring and Shira Frank, who helped me put this survey together.
 Additional thanks to Jamaal Montasser, Samuel Dobson, Sjors Provoost, and Jeremy Rubin who all provided additional insight into the questions and goals of this survey.
