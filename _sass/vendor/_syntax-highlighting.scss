@@ -2,10 +2,9 @@
  * Syntax highlighting styles
  */
 .highlight {
-  margin-left: -2.5rem;
-  width: calc(100% + 5rem);
-  padding: 2.5rem;
-  background: $c__light-grey;
+  line-height: 1.45;
+  padding: 16px;
+  border-radius: 6px;
 
   .highlighter-rouge & {
     background: #eef;
