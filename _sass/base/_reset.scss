@@ -117,5 +117,10 @@ hr {
 pre { overflow: auto; }
 
 code, pre {
-
+  background-color: rgba(227, 225, 222, 0.7);
+  border-radius: 6px;
+  padding: .2em .4em;
+  margin: 0;
+  font-size: 85%;
+  font-family: "SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;
 }
