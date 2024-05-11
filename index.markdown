@@ -25,12 +25,13 @@ Occasionally I also contribute to other open source projects that I use either p
 
 Some notable projects and contributions.
 
+- [MacOS Codesigning Tool in Python](https://github.com/achow101/signapple)
 - [Bitcoin DNS Seeder in rust](https://github.com/achow101/dnsseedrs)
-- [BIP 174 Partially Signed Bitcoin Transaction Format](https://github.com/bitcoin/bips/blob/master/bip-0174.mediawiki)
-- [BIP 174 PSBT Implementation in Bitcoin Core](https://github.com/bitcoin/bitcoin/pull/13557)
-- [Native Descriptor Wallets in Bitcoin Core](https://github.com/bitcoin/bitcoin/pull/16528)
-- [Branch and Bound coin selection algorithm in Bitcoin Core](https://github.com/bitcoin/bitcoin/pull/10637)
 - [Migration to SQLite from BDB for Bitcoin Core's wallet](https://github.com/bitcoin/bitcoin/pull/19077)
+- [Native Descriptor Wallets in Bitcoin Core](https://github.com/bitcoin/bitcoin/pull/16528)
+- [BIP 174 PSBT Implementation in Bitcoin Core](https://github.com/bitcoin/bitcoin/pull/13557)
+- [BIP 174 Partially Signed Bitcoin Transaction Format](https://github.com/bitcoin/bips/blob/master/bip-0174.mediawiki)
+- [Branch and Bound coin selection algorithm in Bitcoin Core](https://github.com/bitcoin/bitcoin/pull/10637)
 - [Upgrade path for non-HD Bitcoin Core wallets to HD](https://github.com/bitcoin/bitcoin/pull/12560)
 - [Segregated Witness in Bitcoin Armory](https://github.com/goatpig/BitcoinArmory/pull/30)
 
@@ -41,6 +42,7 @@ These are the things I currently work on.
 - [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 - [Hardware Wallet Interface](https://github.com/bitcoin-core/hwi)
 - [DNSSeedrs](https://github.com/achow101/dnsseedrs)
+- [Signapple](https://github.com/achow101/signapple)
 
 ### Previous
 
