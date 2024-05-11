@@ -2,15 +2,15 @@
 layout: page
 title: Ava Chow
 ---
-I am a developer, specializing in C++, Python, and Java although I can do other stuff with programming and server maintenance and management.
+I am a developer, specializing in C++, Python, and rust, although I can do other stuff with programming and server maintenance and management.
 Currently I am an engineer at [Blockstream](https://blockstream.com/).
-I primarily work on [Bitcoin Core](https://bitcoincore.org) and on the [Hardware Wallet Interface](https://github.com/bitcoin-core/hwi).
+I primarily work on, and am a maintainer of, the [Bitcoin Core](https://bitcoincore.org) and on the [Hardware Wallet Interface](https://github.com/bitcoin-core/hwi) projects.
 My focus is on wallet functionality and interoperability between different wallet software.
-I also perform [Gitian builds](_posts/2016-01-23-Gitian-builder.md) for Bitcoin Core and all build results can be found on my [Github fork of Bitcoin](https://github.com/achow101/bitcoin/releases).
+I also perform [Guix builds (previously Gitian)](_posts/2016-01-23-Gitian-builder.md) for Bitcoin Core and all build results can be found on my [Github fork of Bitcoin](https://github.com/achow101/bitcoin/releases).
 
 Every Monday at 2 PM Eastern Time (America/New York Timezone), I livestream my work on Bitcoin Core and HWI on [Twitch](https://www.twitch.tv/achow101/).
 
-I am also the moderator of the [Technical Support](https://bitcointalk.org/index.php?board=4.0) and [Development and Technical Discussion](https://bitcointalk.org/index.php?board=6.0) sections of [Bitcointalk](https://bitcointalk.org)
+I am also the moderator of the [Technical Support](https://bitcointalk.org/index.php?board=4.0) and [Development and Technical Discussion](https://bitcointalk.org/index.php?board=6.0) sections of [Bitcointalk](https://bitcointalk.org), as well as the [Bitcoin StackExchange](https://bitcoin.stackexchange.com/).
 
 If you would like to support my work, please visit my [donations page](https://tip.achow101.com/).
 
@@ -19,11 +19,13 @@ If you would like to support my work, please visit my [donations page](https://t
 I have worked on many projects, all of which are open source and can be viewed in my [Github account](https://github.com/achow101).
 Some of these projects are for myself and others projects commissioned by others.
 Some of my projects involve modifying existing open source projects
+Occasionally I also contribute to other open source projects that I use either personally or as a dependency of my other work.
 
 ### Notable Work
 
 Some notable projects and contributions.
 
+- [Bitcoin DNS Seeder in rust](https://github.com/achow101/dnsseedrs)
 - [BIP 174 Partially Signed Bitcoin Transaction Format](https://github.com/bitcoin/bips/blob/master/bip-0174.mediawiki)
 - [BIP 174 PSBT Implementation in Bitcoin Core](https://github.com/bitcoin/bitcoin/pull/13557)
 - [Native Descriptor Wallets in Bitcoin Core](https://github.com/bitcoin/bitcoin/pull/16528)
@@ -38,6 +40,7 @@ These are the things I currently work on.
 
 - [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 - [Hardware Wallet Interface](https://github.com/bitcoin-core/hwi)
+- [DNSSeedrs](https://github.com/achow101/dnsseedrs)
 
 ### Previous
 
