@@ -12,7 +12,7 @@ permalink: /articles/
         <ul class="c-archives__list">
     {% endif %}
         <li class="c-archives__item">
-            <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+            <h3><a href="{{ post.url | prepend: site.baseurl }}.html">{{ post.title }}</a></h3>
             <p>{{ post.date | date: "%b %-d, %Y" }}</p>
         </li>
     {% if forloop.last %}
